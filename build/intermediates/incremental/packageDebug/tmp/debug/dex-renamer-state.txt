@@ -1,0 +1,4 @@
+#Sun Aug 02 18:33:41 NOVT 2020
+base.0=C\:\\Android\\AndroidStudioProjects\\game\\game\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
